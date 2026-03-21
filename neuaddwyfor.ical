@@ -59,7 +59,7 @@ LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681766/events
 DTSTART:20260318T190000Z
 DURATION:PT2H30M
-SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club (Llenyddiaeth / Literature)
+SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club - H is for Hawk (Llenyddiaeth / Literature)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668113
@@ -69,7 +69,7 @@ LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681766/events
 DTSTART:20260408T180000Z
 DURATION:PT2H30M
-SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club (Llenyddiaeth / Literature)
+SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club - "Wuthering Heights" (Llenyddiaeth / Literature)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668115
@@ -79,7 +79,7 @@ LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681766/events
 DTSTART:20260429T180000Z
 DURATION:PT2H30M
-SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club (Llenyddiaeth / Literature)
+SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club - Project Hail Mary (Llenyddiaeth / Literature)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668114
@@ -89,7 +89,7 @@ LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681766/events
 DTSTART:20260513T180000Z
 DURATION:PT2H30M
-SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club (Llenyddiaeth / Literature)
+SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club - Reminders of Him (Llenyddiaeth / Literature)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129662021
@@ -319,7 +319,7 @@ LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683513/events
 DTSTART:20260402T133000Z
 DURATION:PT2H30M
-SUMMARY:GOAT (PG) (Sinema / Cinema)
+SUMMARY:GOAT (PG) - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668177
@@ -359,7 +359,7 @@ LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683515/events
 DTSTART:20260409T133000Z
 DURATION:PT2H30M
-SUMMARY:Hoppers (U) (Sinema / Cinema)
+SUMMARY:Hoppers (U) - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129650019
@@ -529,7 +529,7 @@ LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873680653/events
 DTSTART:20260701T133000Z
 DURATION:PT2H30M
-SUMMARY:NT Live: Les Liaisons Dangereuses (Darllediad Byw / Live Broadcast)
+SUMMARY:NT Live: Les Liaisons Dangereuses - Is-deitlau / Subtitles (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129649949
@@ -549,7 +549,7 @@ LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873680654/events
 DTSTART:20260608T093000Z
 DURATION:PT2H30M
-SUMMARY:NT Live: The Playboy of the Western World (Sinema / Cinema)
+SUMMARY:NT Live: The Playboy of the Western World - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129665144
@@ -589,7 +589,7 @@ LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873682990/events
 DTSTART:20260326T193000Z
 DURATION:PT2H30M
-SUMMARY:Peaky Blinders: The Immortal Man (12A) (Sinema / Cinema)
+SUMMARY:Peaky Blinders: The Immortal Man (12A) - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129652742
@@ -669,7 +669,7 @@ LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683859/events
 DTSTART:20260409T183000Z
 DURATION:PT2H30M
-SUMMARY:Project Hail Mary (12A) (Sinema / Cinema)
+SUMMARY:Project Hail Mary (12A) - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669393
