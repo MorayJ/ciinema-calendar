@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129670592
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Llyfrgell Pwllheli
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684118/events
-DTSTART:20260319T103000Z
-DURATION:PT2H30M
-SUMMARY:Atgofion Jiwcbocs / Jukebox Memories - Emyr Gibson (Llyfrgell / Library)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129666792
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Llyfrgell Pwllheli
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
-DTSTART:20260328T103000Z
-DURATION:PT2H30M
-SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Aged Children) (Llyfrgell / Library)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129666793
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
@@ -50,16 +30,6 @@ DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
 DTSTART:20260425T093000Z
 DURATION:PT2H30M
 SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Aged Children) (Llyfrgell / Library)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669280
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Llyfrgell Pwllheli
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681766/events
-DTSTART:20260318T190000Z
-DURATION:PT2H30M
-SUMMARY:Clwb Llyfr i Ffilm / Book to Film Club - H is for Hawk (Llenyddiaeth / Literature)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668113
@@ -102,26 +72,6 @@ DURATION:PT2H30M
 SUMMARY:Creu Llyfr Braslunio / Create a Sketchbook (Llyfrgell / Library)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669821
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873682988/events
-DTSTART:20260316T103000Z
-DURATION:PT2H30M
-SUMMARY:"Wuthering Heights" (15) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129671487
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873682988/events
-DTSTART:20260316T143000Z
-DURATION:PT2H30M
-SUMMARY:"Wuthering Heights" (15) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129671548
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
@@ -142,14 +92,14 @@ DURATION:PT2H30M
 SUMMARY:Beatles Complete (Cerddoriaeth / Music)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129652717
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673358
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681283/events
-DTSTART:20260418T183000Z
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684879/events
+DTSTART:20260410T093000Z
 DURATION:PT2H30M
-SUMMARY:Bingo Boncyrs Bustach
+SUMMARY:Bluey: Playdates with Friends (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669826
@@ -162,14 +112,24 @@ DURATION:PT2H30M
 SUMMARY:Calvin Price: Echoes From Spirit 2026 Tour (Theatr)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129652570
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129671672
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681240/events
-DTSTART:20260321T193000Z
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684398/events
+DTSTART:20260602T183000Z
 DURATION:PT2H30M
-SUMMARY:Catrin Finch: Notes to Self (Cerddoriaeth / Music)
+SUMMARY:Cwmni Pendraw: DNA (Theatr)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129671673
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684398/events
+DTSTART:20260603T183000Z
+DURATION:PT2H30M
+SUMMARY:Cwmni Pendraw: DNA (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129652563
@@ -222,16 +182,6 @@ DURATION:PT2H30M
 SUMMARY:Ensemble Cymru: Yr Ystafell Gerdd / The Music Room (Cerddoriaeth / Music)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669355
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683854/events
-DTSTART:20260328T193000Z
-DURATION:PT2H30M
-SUMMARY:Epic: Elvis Presley in Concert (12A) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669358
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
@@ -270,26 +220,6 @@ DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873672667/events
 DTSTART:20260403T183000Z
 DURATION:PT2H30M
 SUMMARY:Fleetwood Unchained (Cerddoriaeth / Music)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668171
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683513/events
-DTSTART:20260327T143000Z
-DURATION:PT2H30M
-SUMMARY:GOAT (PG) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668172
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683513/events
-DTSTART:20260328T143000Z
-DURATION:PT2H30M
-SUMMARY:GOAT (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668173
@@ -382,36 +312,6 @@ DURATION:PT2H30M
 SUMMARY:Huw Fyw (Theatr)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668168
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683512/events
-DTSTART:20260317T193000Z
-DURATION:PT2H30M
-SUMMARY:I Swear (15) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668170
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683512/events
-DTSTART:20260318T143000Z
-DURATION:PT2H30M
-SUMMARY:I Swear (15) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668169
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683512/events
-DTSTART:20260318T193000Z
-DURATION:PT2H30M
-SUMMARY:I Swear (15) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129639326
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
@@ -430,6 +330,16 @@ DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683786/events
 DTSTART:20260612T183000Z
 DURATION:PT2H30M
 SUMMARY:Lighthouse Theatre: Casablanca - White Lies (Theatr)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673368
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684885/events
+DTSTART:20260425T133000Z
+DURATION:PT2H30M
+SUMMARY:Looney Tunes: The Day the Earth Blew Up (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669815
@@ -480,6 +390,26 @@ DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683988/events
 DTSTART:20260611T183000Z
 DURATION:PT2H30M
 SUMMARY:Madfabulous (12A) (Sinema / Cinema)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673371
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684887/events
+DTSTART:20260420T093000Z
+DURATION:PT2H30M
+SUMMARY:Mother's Pride (12A) (Sinema / Cinema)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673370
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684887/events
+DTSTART:20260421T183000Z
+DURATION:PT2H30M
+SUMMARY:Mother's Pride (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669832
@@ -552,46 +482,6 @@ DURATION:PT2H30M
 SUMMARY:NT Live: The Playboy of the Western World - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129665144
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873682990/events
-DTSTART:20260324T193000Z
-DURATION:PT2H30M
-SUMMARY:Peaky Blinders: The Immortal Man (12A) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129665147
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873682990/events
-DTSTART:20260325T143000Z
-DURATION:PT2H30M
-SUMMARY:Peaky Blinders: The Immortal Man (12A) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129665145
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873682990/events
-DTSTART:20260325T193000Z
-DURATION:PT2H30M
-SUMMARY:Peaky Blinders: The Immortal Man (12A) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129665146
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873682990/events
-DTSTART:20260326T193000Z
-DURATION:PT2H30M
-SUMMARY:Peaky Blinders: The Immortal Man (12A) - Is-deitlau / Subtitles (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129652742
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
@@ -600,16 +490,6 @@ DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681296/events
 DTSTART:20260501T183000Z
 DURATION:PT2H30M
 SUMMARY:Pedair (Cerddoriaeth / Music)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669823
-DTSTAMP:20260316T183000Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683989/events
-DTSTART:20260319T103000Z
-DURATION:PT2H30M
-SUMMARY:Pictiwrs a Pram: "Wuthering Heights" (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669396
@@ -742,34 +622,74 @@ DURATION:PT2H30M
 SUMMARY:Synergedd - ALAW - VRï - Hannah James (Cerddoriaeth / Music)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129668430
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673362
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683566/events
-DTSTART:20260319T193000Z
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684884/events
+DTSTART:20260522T183000Z
 DURATION:PT2H30M
-SUMMARY:Taith Em Tour (Sinema / Cinema)
+SUMMARY:The Devil Wears Prada 2 (12A TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129658624
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673367
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873682465/events
-DTSTART:20260320T190000Z
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684884/events
+DTSTART:20260525T093000Z
 DURATION:PT2H30M
-SUMMARY:The Lord Of The Rings - The Return Of The King (Extended Edition) (12A) (Sinema / Cinema)
+SUMMARY:The Devil Wears Prada 2 (12A TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669351
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673363
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683853/events
-DTSTART:20260327T193000Z
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684884/events
+DTSTART:20260525T183000Z
 DURATION:PT2H30M
-SUMMARY:The Secret Agent (15) (Sinema / Cinema)
+SUMMARY:The Devil Wears Prada 2 (12A TBC) (Sinema / Cinema)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673364
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684884/events
+DTSTART:20260526T183000Z
+DURATION:PT2H30M
+SUMMARY:The Devil Wears Prada 2 (12A TBC) (Sinema / Cinema)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673365
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684884/events
+DTSTART:20260527T183000Z
+DURATION:PT2H30M
+SUMMARY:The Devil Wears Prada 2 (12A TBC) (Sinema / Cinema)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673366
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684884/events
+DTSTART:20260528T183000Z
+DURATION:PT2H30M
+SUMMARY:The Devil Wears Prada 2 (12A TBC) (Sinema / Cinema)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129673369
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684886/events
+DTSTART:20260502T183000Z
+DURATION:PT2H30M
+SUMMARY:The Magic Faraway Tree (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669384
@@ -822,6 +742,26 @@ DURATION:PT2H30M
 SUMMARY:Travellers Tunes - An Evening with Steve Cradock (Cerddoriaeth / Music)
 END:VEVENT
 BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129670988
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873667580/events
+DTSTART:20260509T183000Z
+DURATION:PT2H30M
+SUMMARY:Welsh Of The West End (Cerddoriaeth / Music)
+END:VEVENT
+BEGIN:VEVENT
+UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129672551
+DTSTAMP:20260316T183000Z
+ORGANIZER:CN=The Void:MAILTO:cinema@example.com
+LOCATION:Neuadd Dwyfor
+DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873667580/events
+DTSTART:20260510T133000Z
+DURATION:PT2H30M
+SUMMARY:Welsh Of The West End (Cerddoriaeth / Music)
+END:VEVENT
+BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129671100
 DTSTAMP:20260316T183000Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
@@ -829,7 +769,7 @@ LOCATION:Plas Carmel, Aberdaron
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684224/events
 DTSTART:20260508T180000Z
 DURATION:PT2H30M
-SUMMARY:Fran Wen: Praidd (Theatr)
+SUMMARY:Frân Wen: Praidd (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129671103
@@ -839,7 +779,7 @@ LOCATION:Plas Carmel, Aberdaron
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684224/events
 DTSTART:20260509T180000Z
 DURATION:PT2H30M
-SUMMARY:Fran Wen: Praidd (Theatr)
+SUMMARY:Frân Wen: Praidd (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129671102
@@ -849,6 +789,6 @@ LOCATION:Plas Carmel, Aberdaron
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873684224/events
 DTSTART:20260510T180000Z
 DURATION:PT2H30M
-SUMMARY:Fran Wen: Praidd (Theatr)
+SUMMARY:Frân Wen: Praidd (Theatr)
 END:VEVENT
 END:VCALENDAR
