@@ -1,0 +1,12 @@
+This repo is for storing ical files generated from xml from ticketsolve so they can be added to calendars.
+
+Set up for personal use, but can be used in a calendar by adding to a calendar using the 'raw' link for the file.
+
+For example:
+https://raw.githubusercontent.com/MorayJ/ciinema-calendar/refs/heads/main/galerie.ical
+
+This is found by going to the file https://github.com/MorayJ/ciinema-calendar/blob/main/galerie.ical (which is what the galerie link above link should link to) and clicking 'Raw' in the top right which will take you to the link you want to add to your calendar.
+
+Aiming to have these updated daily. Be aware that this is unofficial, updating is not guaranteed, calendars that sync with ical don't do so instantly and it can take a day before your calendar registers a change to the ical file it is syncing with.
+
+If you stumble on this and would like me to add an ical for another ticketsolve handled cinema, just raise an issue.
