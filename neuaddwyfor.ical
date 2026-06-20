@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681126
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -13,7 +13,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681127
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -23,7 +23,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681128
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -33,7 +33,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681129
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -43,7 +43,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129687303
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -53,7 +53,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129687304
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -63,7 +63,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129687305
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -73,7 +73,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129687306
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -83,7 +83,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129639433
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873679823/events
@@ -93,7 +93,7 @@ SUMMARY:Beatles Complete (Cerddoriaeth / Music)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669826
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683991/events
@@ -103,7 +103,7 @@ SUMMARY:Calvin Price: Echoes From Spirit 2026 Tour (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129675884
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685446/events
@@ -113,7 +113,7 @@ SUMMARY:Dementia Friendly: Madfabulous (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129652563
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681238/events
@@ -123,7 +123,7 @@ SUMMARY:Dosbarth Miss Prydderch a Lleidr y Lleisiau (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129652568
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873681238/events
@@ -133,7 +133,7 @@ SUMMARY:Dosbarth Miss Prydderch a Lleidr y Lleisiau (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129679824
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685714/events
@@ -143,7 +143,7 @@ SUMMARY:Effi o Blaenau (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129679828
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685714/events
@@ -153,7 +153,7 @@ SUMMARY:Effi o Blaenau (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129679825
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685714/events
@@ -163,7 +163,7 @@ SUMMARY:Effi o Blaenau (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129679826
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685714/events
@@ -173,7 +173,7 @@ SUMMARY:Effi o Blaenau (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129679827
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685714/events
@@ -183,7 +183,7 @@ SUMMARY:Effi o Blaenau (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129684832
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686631/events
@@ -193,7 +193,7 @@ SUMMARY:Noson Film Glasurol / Classic Film Night: Independence Day (12) (Sinema 
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129684833
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686632/events
@@ -203,7 +203,7 @@ SUMMARY:Noson Film Glasurol / Classic Film Night: Mamma Mia! (PG) (Sinema / Cine
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129649947
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873680653/events
@@ -213,7 +213,7 @@ SUMMARY:NT Live: Les Liaisons Dangereuses (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129649948
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873680653/events
@@ -223,7 +223,7 @@ SUMMARY:NT Live: Les Liaisons Dangereuses - Is-deitlau / Subtitles (Darllediad B
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681505
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686247/events
@@ -233,7 +233,7 @@ SUMMARY:Riverdance 25th Anniversary Show (U) (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681603
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686296/events
@@ -243,7 +243,7 @@ SUMMARY:Stan Tracey’s Under Milk Wood Jazz Suite (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681555
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685711/events
@@ -252,18 +252,8 @@ DURATION:PT2H30M
 SUMMARY:Tommy Cooper (Theatr)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681410
-DTSTAMP:20260619T212902Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686203/events
-DTSTART:20260619T173000Z
-DURATION:PT2H30M
-SUMMARY:Ysgol Ddawns Pwllheli 2025 (Hyn / Seniors) (Dawns / Dance)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681411
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686203/events
@@ -273,7 +263,7 @@ SUMMARY:Ysgol Ddawns Pwllheli 2025 (Hyn / Seniors) (Dawns / Dance)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681409
-DTSTAMP:20260619T212902Z
+DTSTAMP:20260620T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686201/events
