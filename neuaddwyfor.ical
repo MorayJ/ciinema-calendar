@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129687303
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -13,7 +13,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129687304
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -23,7 +23,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129687305
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -33,7 +33,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129687306
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873638994/events
@@ -43,7 +43,7 @@ SUMMARY:Clwb Creu (Addas i Blant Oedran Cynradd / Suitable for primary School Ag
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693424
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688644/events
@@ -52,18 +52,8 @@ DURATION:PT2H30M
 SUMMARY:Curiadau a Chyfrolau gyda Mr Phormula / Beats and Books with Mr Phormula (Gweithdy / Workshop)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694879
-DTSTAMP:20260730T212904Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Llyfrgell Pwllheli
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688869/events
-DTSTART:20260731T170000Z
-DURATION:PT2H30M
-SUMMARY:Diod a Dylunio - Peintio Gwydr / Drink and Design - Glass Painting
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693420
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688643/events
@@ -73,7 +63,7 @@ SUMMARY:Gweithdy Marmori a gludwaith gyda Jwls Williams / Marbling and Collage W
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693421
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688643/events
@@ -83,7 +73,7 @@ SUMMARY:Gweithdy Marmori a gludwaith gyda Jwls Williams / Marbling and Collage W
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693436
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688646/events
@@ -93,7 +83,7 @@ SUMMARY:Lledrith yn y llyfrgell gyda Proffesor Llusern / Magic in the Library wi
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693412
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688636/events
@@ -103,7 +93,7 @@ SUMMARY:Sesiwn crefftau - Creu breichledau Seren Bop /  Create Popstar Bracelets
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693411
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688634/events
@@ -112,18 +102,8 @@ DURATION:PT2H30M
 SUMMARY:Sesiwn Crefftau - Creu Clawr Record / Create a Record Sleeve (Gweithdy / Workshop)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693407
-DTSTAMP:20260730T212904Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Llyfrgell Pwllheli
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688631/events
-DTSTART:20260731T093000Z
-DURATION:PT2H30M
-SUMMARY:Sesiwn Crefftau - Creu tambwrin lliwgar / Craft session - Create a colourful tambourine (Gweithdy / Workshop)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693409
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688633/events
@@ -133,7 +113,7 @@ SUMMARY:Sesiwn Crefftau - Peintio Record Finyl / Vinyl Record Painting (Gweithdy
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693440
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Llyfrgell Pwllheli
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688648/events
@@ -142,18 +122,8 @@ DURATION:PT2H30M
 SUMMARY:Sesiwn Grefft Nodau mewn Edau gyda Sioned Hywel / Notes in Thread with Sioned Hywel (Gweithdy / Workshop)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693128
-DTSTAMP:20260730T212904Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688547/events
-DTSTART:20260730T180000Z
-DURATION:PT2H30M
-SUMMARY:Aida on Sydney Harbour (U) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693130
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688549/events
@@ -163,7 +133,7 @@ SUMMARY:Andre Rieu Viva Maastricht! (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693131
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688549/events
@@ -172,18 +142,8 @@ DURATION:PT2H30M
 SUMMARY:Andre Rieu Viva Maastricht! (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694618
-DTSTAMP:20260730T212904Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688790/events
-DTSTART:20260731T133000Z
-DURATION:PT2H30M
-SUMMARY:Animal Farm (PG) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694619
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688790/events
@@ -193,7 +153,7 @@ SUMMARY:Animal Farm (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694620
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688790/events
@@ -203,7 +163,7 @@ SUMMARY:Animal Farm (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694621
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688790/events
@@ -213,7 +173,7 @@ SUMMARY:Animal Farm (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694622
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688790/events
@@ -223,7 +183,7 @@ SUMMARY:Animal Farm (PG) - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129691771
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688145/events
@@ -233,7 +193,7 @@ SUMMARY:Bara Caws: Dadra (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692682
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873676073/events
@@ -243,7 +203,7 @@ SUMMARY:Bat Out of Hell - The Musical (12A) (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129669826
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683991/events
@@ -253,7 +213,7 @@ SUMMARY:Calvin Price: Echoes From Spirit 2026 Tour (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694637
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688796/events
@@ -263,7 +223,7 @@ SUMMARY:Charlie the Wonderdog (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694638
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688796/events
@@ -273,7 +233,7 @@ SUMMARY:Charlie the Wonderdog (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692592
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685714/events
@@ -283,7 +243,7 @@ SUMMARY:Effi o Blaenau (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693797
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688720/events
@@ -293,7 +253,7 @@ SUMMARY:GIANT - The Play (15) (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693796
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688720/events
@@ -303,7 +263,7 @@ SUMMARY:GIANT - The Play (15) (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693127
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688546/events
@@ -313,7 +273,7 @@ SUMMARY:La Traviata on Sydney Harbour (PG) (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692670
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683988/events
@@ -323,7 +283,7 @@ SUMMARY:Madfabulous (12A) - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692671
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683988/events
@@ -333,7 +293,7 @@ SUMMARY:Madfabulous (12A) - Celyn Jones Q&A (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692672
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873683988/events
@@ -343,7 +303,7 @@ SUMMARY:Madfabulous (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695374
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873689093/events
@@ -353,7 +313,7 @@ SUMMARY:Mermaid Beach (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695375
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873689093/events
@@ -362,18 +322,8 @@ DURATION:PT2H30M
 SUMMARY:Mermaid Beach (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692633
-DTSTAMP:20260730T212904Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688426/events
-DTSTART:20260730T093000Z
-DURATION:PT2H30M
-SUMMARY:Minions & Monsters (U) - Hamddenol / Relaxed (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695366
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688426/events
@@ -383,7 +333,7 @@ SUMMARY:Minions & Monsters (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695367
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688426/events
@@ -393,7 +343,7 @@ SUMMARY:Minions & Monsters (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695369
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688426/events
@@ -403,7 +353,7 @@ SUMMARY:Minions & Monsters (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695370
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688426/events
@@ -413,7 +363,7 @@ SUMMARY:Minions & Monsters (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695371
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688426/events
@@ -422,28 +372,8 @@ DURATION:PT2H30M
 SUMMARY:Minions & Monsters (U) - Hamddenol / Relaxed (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692662
-DTSTAMP:20260730T212904Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688436/events
-DTSTART:20260730T133000Z
-DURATION:PT2H30M
-SUMMARY:Moana (PG) - Is-deitlau / Subtitles (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692663
-DTSTAMP:20260730T212904Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688436/events
-DTSTART:20260731T093000Z
-DURATION:PT2H30M
-SUMMARY:Moana (PG) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692664
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688436/events
@@ -453,7 +383,7 @@ SUMMARY:Moana (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692668
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688436/events
@@ -463,7 +393,7 @@ SUMMARY:Moana (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692665
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688436/events
@@ -473,7 +403,7 @@ SUMMARY:Moana (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692666
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688436/events
@@ -483,7 +413,7 @@ SUMMARY:Moana (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692667
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688436/events
@@ -493,7 +423,7 @@ SUMMARY:Moana (PG) - Hamddenol / Relaxed (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695478
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873689125/events
@@ -503,7 +433,7 @@ SUMMARY:Momo and the Time Thieves (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695480
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873689125/events
@@ -513,7 +443,7 @@ SUMMARY:Momo and the Time Thieves (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695481
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873689125/events
@@ -523,7 +453,7 @@ SUMMARY:Momo and the Time Thieves (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695482
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873689125/events
@@ -533,7 +463,7 @@ SUMMARY:Momo and the Time Thieves (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695483
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873689125/events
@@ -543,7 +473,7 @@ SUMMARY:Momo and the Time Thieves (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129684833
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686632/events
@@ -553,7 +483,7 @@ SUMMARY:Noson Film Glasurol / Classic Film Night: Mamma Mia! (PG) (Sinema / Cine
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693139
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688554/events
@@ -563,7 +493,7 @@ SUMMARY:Noson Film Glasurol: Carrie (15) (1976) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693138
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688552/events
@@ -573,7 +503,7 @@ SUMMARY:Noson Film Glasurol: E.T. The Extra Terrestrial (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693137
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688551/events
@@ -583,7 +513,7 @@ SUMMARY:Noson Film Glasurol: Raiders of the Lost Ark (Dewis y Gynulleidfa / Audi
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694635
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688794/events
@@ -593,7 +523,7 @@ SUMMARY:Noson Yng Nghwmni Sue Roderick (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694634
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688793/events
@@ -603,7 +533,7 @@ SUMMARY:Noson Yng Nghwni Hywel a Beti (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692296
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688292/events
@@ -613,7 +543,7 @@ SUMMARY:NT Live: The Misanthrope (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129692297
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688292/events
@@ -623,7 +553,7 @@ SUMMARY:NT Live: The Misanthrope (Darllediad Byw / Live Broadcast)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693056
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688529/events
@@ -633,7 +563,7 @@ SUMMARY:On the Sea (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693057
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688529/events
@@ -643,7 +573,7 @@ SUMMARY:On the Sea (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695060
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688974/events
@@ -653,7 +583,7 @@ SUMMARY:Paw Patrol: The Dino Movie (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695062
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688974/events
@@ -663,7 +593,7 @@ SUMMARY:Paw Patrol: The Dino Movie (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695063
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688974/events
@@ -673,7 +603,7 @@ SUMMARY:Paw Patrol: The Dino Movie (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695064
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688974/events
@@ -683,7 +613,7 @@ SUMMARY:Paw Patrol: The Dino Movie (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695065
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688974/events
@@ -693,7 +623,7 @@ SUMMARY:Paw Patrol: The Dino Movie (U) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695066
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688974/events
@@ -703,7 +633,7 @@ SUMMARY:Paw Patrol: The Dino Movie (U) - Is-deitlau / Subtitles (Sinema / Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694623
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -713,7 +643,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694629
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -723,7 +653,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694624
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -733,7 +663,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694630
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -743,7 +673,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694625
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -753,7 +683,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694626
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -763,7 +693,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694631
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -773,7 +703,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694628
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -783,7 +713,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694632
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -793,7 +723,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694627
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -803,7 +733,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) - Is-deitlau / Subtitles (Sinema / Cinem
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694633
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -813,7 +743,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) - Is-deitlau / Subtitles (Sinema / Cinem
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695044
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -823,7 +753,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695045
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -833,7 +763,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695048
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -843,7 +773,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695046
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -853,7 +783,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695047
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -863,7 +793,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695049
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688792/events
@@ -873,7 +803,7 @@ SUMMARY:Spider-Man: Brand New Day (12A) - Hamddenol / Relaxed (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681603
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873686296/events
@@ -883,7 +813,7 @@ SUMMARY:Stan Tracey’s Under Milk Wood Jazz Suite (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693047
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688523/events
@@ -893,7 +823,7 @@ SUMMARY:Sycharth Yn Fy Ngwaed (Cerddoriaeth / Music)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693510
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688672/events
@@ -903,7 +833,7 @@ SUMMARY:Te Angladd (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695077
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -913,7 +843,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695078
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -923,7 +853,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695079
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -933,7 +863,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695080
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -943,7 +873,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695081
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -953,7 +883,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695082
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -963,7 +893,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) - Is-deitlau / Subtitles (Sinema / Cin
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695083
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -973,7 +903,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695084
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -983,7 +913,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695086
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -993,7 +923,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695087
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -1003,7 +933,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695090
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -1013,7 +943,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695091
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688976/events
@@ -1023,7 +953,7 @@ SUMMARY:The End of Oak Street (Cert. TBC) - Is-deitlau / Subtitles (Sinema / Cin
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693034
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873672667/events
@@ -1033,7 +963,7 @@ SUMMARY:The FM Songbook The Ultimate Fleetwood Mac Tribute (Cerddoriaeth / Music
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693132
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688550/events
@@ -1043,7 +973,7 @@ SUMMARY:The Odyssey (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693136
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688550/events
@@ -1053,7 +983,7 @@ SUMMARY:The Odyssey (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693133
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688550/events
@@ -1063,7 +993,7 @@ SUMMARY:The Odyssey (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693134
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688550/events
@@ -1073,7 +1003,7 @@ SUMMARY:The Odyssey (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693135
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688550/events
@@ -1083,7 +1013,7 @@ SUMMARY:The Odyssey (15) - Is-deitlau / Subtitles (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129696186
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873689366/events
@@ -1093,7 +1023,7 @@ SUMMARY:The Silent Volunteer (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129681555
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873685711/events
@@ -1103,7 +1033,7 @@ SUMMARY:Tommy Cooper (Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695521
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688422/events
@@ -1113,7 +1043,7 @@ SUMMARY:Toy Story 5 (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695518
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688422/events
@@ -1123,7 +1053,7 @@ SUMMARY:Toy Story 5 (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695519
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688422/events
@@ -1133,7 +1063,7 @@ SUMMARY:Toy Story 5 (PG) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695520
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688422/events
@@ -1142,18 +1072,8 @@ DURATION:PT2H30M
 SUMMARY:Toy Story 5 (PG) - Hamddenol / Relaxed (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129694615
-DTSTAMP:20260730T212904Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Neuadd Dwyfor
-DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688788/events
-DTSTART:20260731T183000Z
-DURATION:PT2H30M
-SUMMARY:Tuner (15) (Sinema / Cinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129695123
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688788/events
@@ -1163,7 +1083,7 @@ SUMMARY:Tuner (15) (Sinema / Cinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:db9c50d8-a325-4ec1-89eb-f0e4c3066688-129693129
-DTSTAMP:20260730T212904Z
+DTSTAMP:20260801T212902Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd Dwyfor
 DESCRIPTION:https://neuadddwyfor.ticketsolve.com/shows/873688548/events
