@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129697810
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Caffi Galeri
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689763/events
@@ -13,7 +13,7 @@ SUMMARY:Clwb Swper
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129693564
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873688690/events
@@ -23,7 +23,7 @@ SUMMARY:Clwb Creu: 10-15 (Celf Gyhoeddus)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129693565
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873688690/events
@@ -33,7 +33,7 @@ SUMMARY:Clwb Creu: 10-15 (Celf Gyhoeddus)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129693558
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873688688/events
@@ -43,7 +43,7 @@ SUMMARY:Clwb Creu: 5-9 (Celf Gyhoeddus)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129693559
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873688688/events
@@ -53,7 +53,7 @@ SUMMARY:Clwb Creu: 5-9 (Celf Gyhoeddus)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696811
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689484/events
@@ -63,7 +63,7 @@ SUMMARY: Gwilym Bowen Rhys Trio + Elin a Carys (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129672631
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873684605/events
@@ -73,7 +73,7 @@ SUMMARY:[Rhagddangosiad / Preview] Wythnos Yng Nghymru Fydd (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129672632
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873684605/events
@@ -83,7 +83,7 @@ SUMMARY:[Rhagddangosiad / Preview] Wythnos Yng Nghymru Fydd (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129697412
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689622/events
@@ -93,7 +93,7 @@ SUMMARY:ANDRÉ RIEU’S 2026 CHRISTMAS CONCERT: LET IT SNOW [TBC] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129697977
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873676577/events
@@ -103,7 +103,7 @@ SUMMARY:Bat out of Hell - The Musical [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129685939
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687014/events
@@ -113,7 +113,7 @@ SUMMARY:Blasu Crefft 2026 (Crefft)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129686258
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687014/events
@@ -123,7 +123,7 @@ SUMMARY:Blasu Crefft 2026 (Crefft)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129685941
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687014/events
@@ -133,7 +133,7 @@ SUMMARY:Blasu Crefft 2026 (Crefft)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696476
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689443/events
@@ -143,7 +143,7 @@ SUMMARY:Clwb Comedi Galeri (Comedi / Comedy)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129692097
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873688255/events
@@ -153,7 +153,7 @@ SUMMARY:Cwmni Theatr Maldwyn: Sycharth yn fy Ngwaed (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129691328
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873688087/events
@@ -163,7 +163,7 @@ SUMMARY:DADRA - Theatr Bara Caws (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129675275
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873685281/events
@@ -173,7 +173,7 @@ SUMMARY:Danny Hart: Won’t Sit Down (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696735
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873686533/events
@@ -183,7 +183,7 @@ SUMMARY:Effi o Blaenau [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696736
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873686533/events
@@ -193,7 +193,7 @@ SUMMARY:Effi o Blaenau [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696291
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689409/events
@@ -203,7 +203,7 @@ SUMMARY:Gig Ta’Ha: Meinir Gwilym ac Achlysurol (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129694006
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873688743/events
@@ -213,7 +213,7 @@ SUMMARY:Girl from the North Country [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696206
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689339/events
@@ -223,7 +223,7 @@ SUMMARY:Gwenno Morgan : Gwreiddiau (Cerddoriaeth / Music)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129638338
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873679642/events
@@ -233,7 +233,7 @@ SUMMARY:Ignacio Lopez: Nada (Comedi / Comedy)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129670952
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873684170/events
@@ -242,18 +242,8 @@ DURATION:PT2H30M
 SUMMARY:Jordan Wylie: Finding Purpose (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
-UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696779
-DTSTAMP:20260814T220104Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Galeri Caernarfon 2026
-DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
-DTSTART:20260814T181500Z
-DURATION:PT2H30M
-SUMMARY:Lady [15] (Sinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696781
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -263,7 +253,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696784
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -273,7 +263,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696785
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -283,7 +273,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696786
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -293,7 +283,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696782
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -303,7 +293,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696783
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -313,7 +303,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698020
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -323,7 +313,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698021
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -333,7 +323,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698022
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -343,7 +333,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698023
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -353,7 +343,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698024
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -363,7 +353,7 @@ SUMMARY:Lady [15] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698025
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689478/events
@@ -373,7 +363,7 @@ SUMMARY:Lady [15] - SUBTITLES (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698032
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689809/events
@@ -383,7 +373,7 @@ SUMMARY:Mermaid Beach [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698027
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689809/events
@@ -393,7 +383,7 @@ SUMMARY:Mermaid Beach [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698028
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689809/events
@@ -403,7 +393,7 @@ SUMMARY:Mermaid Beach [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698029
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689809/events
@@ -413,7 +403,7 @@ SUMMARY:Mermaid Beach [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698030
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689809/events
@@ -423,7 +413,7 @@ SUMMARY:Mermaid Beach [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698031
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689809/events
@@ -432,18 +422,8 @@ DURATION:PT2H30M
 SUMMARY:Mermaid Beach [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696715
-DTSTAMP:20260814T220104Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Galeri Caernarfon 2026
-DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
-DTSTART:20260814T100000Z
-DURATION:PT2H30M
-SUMMARY:Minions & Monsters [U] (Sinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696716
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -453,7 +433,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696717
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -463,7 +443,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696718
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -473,7 +453,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696719
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -483,7 +463,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696720
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -493,7 +473,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696721
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -503,7 +483,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698013
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -513,7 +493,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698007
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -523,7 +503,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698008
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -533,7 +513,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698009
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -543,7 +523,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698010
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -553,7 +533,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698011
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -563,7 +543,7 @@ SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698012
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687703/events
@@ -572,18 +552,8 @@ DURATION:PT2H30M
 SUMMARY:Minions & Monsters [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696746
-DTSTAMP:20260814T220104Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Galeri Caernarfon 2026
-DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687708/events
-DTSTART:20260814T101500Z
-DURATION:PT2H30M
-SUMMARY:Moana [PG] (Sinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696747
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687708/events
@@ -593,7 +563,7 @@ SUMMARY:Moana [PG] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696748
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687708/events
@@ -603,7 +573,7 @@ SUMMARY:Moana [PG] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696749
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687708/events
@@ -613,7 +583,7 @@ SUMMARY:Moana [PG] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696750
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687708/events
@@ -623,7 +593,7 @@ SUMMARY:Moana [PG] - SUBTITLES (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696751
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687708/events
@@ -633,7 +603,7 @@ SUMMARY:Moana [PG] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696737
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689162/events
@@ -643,7 +613,7 @@ SUMMARY:Moana [PG] Hamddenol / Relaxed - DEMENTIA FRIENDLY (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129693418
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873688642/events
@@ -652,18 +622,8 @@ DURATION:PT2H30M
 SUMMARY:NT Live: The Misanthrope [15 TBC] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
-UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696722
-DTSTAMP:20260814T220104Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Galeri Caernarfon 2026
-DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689171/events
-DTSTART:20260814T131500Z
-DURATION:PT2H30M
-SUMMARY:Paw Patrol: The Dino Movie [U] (Sinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696723
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689171/events
@@ -673,7 +633,7 @@ SUMMARY:Paw Patrol: The Dino Movie [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696724
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689171/events
@@ -683,7 +643,7 @@ SUMMARY:Paw Patrol: The Dino Movie [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696725
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689171/events
@@ -693,7 +653,7 @@ SUMMARY:Paw Patrol: The Dino Movie [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696726
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689171/events
@@ -703,7 +663,7 @@ SUMMARY:Paw Patrol: The Dino Movie [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696727
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689171/events
@@ -713,7 +673,7 @@ SUMMARY:Paw Patrol: The Dino Movie [U] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696728
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689171/events
@@ -723,7 +683,7 @@ SUMMARY:Paw Patrol: The Dino Movie [U] - SUBTITLES (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129669639
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873683938/events
@@ -733,7 +693,7 @@ SUMMARY:Sandro Ford: Lager Than Life (Comedi / Comedy)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696829
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -743,7 +703,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129697249
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -753,7 +713,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696819
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -763,7 +723,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696840
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -773,7 +733,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON - BSL (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696842
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -783,7 +743,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON - BSL (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696820
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -793,7 +753,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696823
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -803,7 +763,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696826
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -813,7 +773,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696821
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -823,7 +783,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696824
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -833,7 +793,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696827
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -843,7 +803,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696822
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -853,7 +813,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696825
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -863,7 +823,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696828
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -873,7 +833,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696833
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -883,7 +843,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696835
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -893,7 +853,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696836
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -903,7 +863,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696837
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -913,7 +873,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696839
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689357/events
@@ -922,28 +882,8 @@ DURATION:PT2H30M
 SUMMARY:Sioe Nadolig Cyw 2026- CAERNARFON (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
-UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696766
-DTSTAMP:20260814T220104Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Galeri Caernarfon 2026
-DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
-DTSTART:20260814T130000Z
-DURATION:PT2H30M
-SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
-END:VEVENT
-BEGIN:VEVENT
-UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696729
-DTSTAMP:20260814T220104Z
-ORGANIZER:CN=The Void:MAILTO:cinema@example.com
-LOCATION:Galeri Caernarfon 2026
-DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
-DTSTART:20260814T180000Z
-DURATION:PT2H30M
-SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
-END:VEVENT
-BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696767
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -953,7 +893,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696730
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -963,7 +903,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696731
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -973,7 +913,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696732
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -983,7 +923,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696768
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -993,7 +933,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696733
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -1003,7 +943,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696769
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -1013,7 +953,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696734
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -1023,7 +963,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698015
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -1033,7 +973,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698016
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -1043,7 +983,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698017
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -1053,7 +993,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698018
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -1063,7 +1003,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129698019
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873687879/events
@@ -1073,7 +1013,7 @@ SUMMARY:Spider-Man: Brand New Day [12A] (Sinema)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129672629
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873684603/events
@@ -1083,7 +1023,7 @@ SUMMARY:Wythnos Yng Nghymru Fydd (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129672627
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873684603/events
@@ -1093,7 +1033,7 @@ SUMMARY:Wythnos Yng Nghymru Fydd (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129672639
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Galeri Caernarfon 2026
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873684603/events
@@ -1103,7 +1043,7 @@ SUMMARY:Wythnos Yng Nghymru Fydd (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696855
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1113,7 +1053,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696858
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1123,7 +1063,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696861
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1133,7 +1073,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696856
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1143,7 +1083,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI - BSL (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696859
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1153,7 +1093,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI - BSL (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696862
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1163,7 +1103,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696857
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1173,7 +1113,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696860
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1183,7 +1123,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696863
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Neuadd y Gwendraeth
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689358/events
@@ -1193,7 +1133,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANELLI (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696849
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Theatr Derek Williams
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689360/events
@@ -1203,7 +1143,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- Y BALA (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696854
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Theatr Derek Williams
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689360/events
@@ -1213,7 +1153,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- Y BALA - BSL (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696851
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Theatr Derek Williams
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689360/events
@@ -1223,7 +1163,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- Y BALA (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696850
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Theatr Derek Williams
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689360/events
@@ -1233,7 +1173,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- Y BALA (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696853
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Theatr Derek Williams
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689360/events
@@ -1243,7 +1183,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- Y BALA (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696852
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Theatr Derek Williams
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689360/events
@@ -1253,7 +1193,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- Y BALA (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696843
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Ysgol Bro Teifi, Llandysul
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689359/events
@@ -1263,7 +1203,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANDYSUL (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696844
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Ysgol Bro Teifi, Llandysul
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689359/events
@@ -1273,7 +1213,7 @@ SUMMARY:Sioe Nadolig Cyw 2026- LLANDYSUL (Adloniant Theatr)
 END:VEVENT
 BEGIN:VEVENT
 UID:b1fc43bf-d1b2-4d72-8507-3795f93402b8-129696845
-DTSTAMP:20260814T220104Z
+DTSTAMP:20260815T220105Z
 ORGANIZER:CN=The Void:MAILTO:cinema@example.com
 LOCATION:Ysgol Bro Teifi, Llandysul
 DESCRIPTION:https://galericaernarfon.ticketsolve.com/shows/873689359/events
